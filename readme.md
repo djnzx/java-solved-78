@@ -191,3 +191,17 @@ mvn spotless:apply
 ```shell
 mvn spotless:check
 ```
+
+## Вирішені задачі
+
+Розв'язки лежать в окремій гілці `solved`, а `master` лишається з порожніми шаблонами.
+
+- [код розв'язків](https://github.com/djnzx/java-solved-78/tree/solved/src/main/java/practice) — 32 файли, по два на заняття
+- [дифф до шаблонів](https://github.com/djnzx/java-solved-78/compare/master...solved) — видно тільки те, що дописано
+
+Локально:
+
+```shell
+git switch solved   # подивитись розв'язки
+git switch master   # повернутись до заготовок
+```
