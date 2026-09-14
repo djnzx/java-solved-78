@@ -205,3 +205,22 @@ mvn spotless:check
 git switch solved   # подивитись розв'язки
 git switch master   # повернутись до заготовок
 ```
+
+## Pull requests
+
+- [Practice 1 solved](https://github.com/djnzx/java-solved-78/pull/1/changes)
+- [Practice 2 solved](https://github.com/djnzx/java-solved-78/pull/2/changes)
+- [Practice 3 solved](https://github.com/djnzx/java-solved-78/pull/3/changes)
+- [Practice 4 solved](https://github.com/djnzx/java-solved-78/pull/4/changes)
+- [Practice 5 solved](https://github.com/djnzx/java-solved-78/pull/5/changes)
+- [Practice 6 solved](https://github.com/djnzx/java-solved-78/pull/6/changes)
+- [Practice 7 solved](https://github.com/djnzx/java-solved-78/pull/7/changes)
+- [Practice 8 solved](https://github.com/djnzx/java-solved-78/pull/8/changes)
+- [Practice 9 solved](https://github.com/djnzx/java-solved-78/pull/9/changes)
+- [Practice 10 solved](https://github.com/djnzx/java-solved-78/pull/10/changes)
+- [Practice 11 solved](https://github.com/djnzx/java-solved-78/pull/11/changes)
+- [Practice 12 solved](https://github.com/djnzx/java-solved-78/pull/12/changes)
+- [Practice 13 solved](https://github.com/djnzx/java-solved-78/pull/13/changes)
+- [Practice 14 solved](https://github.com/djnzx/java-solved-78/pull/14/changes)
+- [Practice 15 solved](https://github.com/djnzx/java-solved-78/pull/15/changes)
+- [Practice 16 solved](https://github.com/djnzx/java-solved-78/pull/16/changes)
